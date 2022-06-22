@@ -11,18 +11,18 @@
 
 # インストール
 
-'''bash
+```bash
 pip3 install duckduckgo_search
-'''
+```
 duckduckgo_search.pyにおいてsleep(0.75)を削らないと検索時に引っかかってしまう。
 
 # 使い方
 
 商品名のみリストをエクセル等で作成して、akizuki_parts.csvを作成する。
 同じディレクトリで、
-'''python
+```python
 python3 main.py
-'''
+```
 とするれば自動でwebより取得する。
 akizuki_parts_list.txtが出力ファイル
 
