@@ -9,7 +9,7 @@
 - Baetifulesoap
 - duckduckgo_search（インストールが必要そして改造が必要）
 
-#インストール
+# インストール
 
 '''bash
 pip3 install duckduckgo_search
